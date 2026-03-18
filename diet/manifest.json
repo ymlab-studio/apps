@@ -1,0 +1,24 @@
+{
+  "name": "ぷちレコ - かんたんレコーディングダイエット",
+  "short_name": "ぷちレコ",
+  "description": "タップするだけ。かんたん食事記録＆PFC管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e8f5e9",
+  "theme_color": "#43a047",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo_onboarding.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo_mini.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
